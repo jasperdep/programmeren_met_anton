@@ -59,7 +59,7 @@ export default class App extends React.Component {
       },
       {
         src: 'fontawesome',
-        name: 'github',
+        name: 'apple',
         color: '#24292e'
       },
       {
@@ -117,7 +117,7 @@ export default class App extends React.Component {
         <Button
           onPress={this.resetCards}
           title="Reset"
-          color="#008CFA" 
+          background-color='red' 
         />
       </View>
     );

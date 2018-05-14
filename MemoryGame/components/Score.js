@@ -18,10 +18,11 @@ const styles = StyleSheet.create({
 	score_container: {
 		flex: 1,
 		alignItems: 'center',
-		padding: 10
+		padding: 10,
+		marginBottom: 50,
 	},
 	score: {
 		fontSize: 40,
-		fontWeight: 'bold'
+		fontWeight: 'bold',
 	}
 });

@@ -1,0 +1,6 @@
+export default {
+  sprites: {
+  },
+  audio: {
+  }
+};
