@@ -1,0 +1,8 @@
+{
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://yx-dba.antonbil.flappy-bird.exp.direct",
+  "packagerNgrokUrl": "https://packager.yx-dba.antonbil.flappy-bird.exp.direct",
+  "ngrokPid": 9846,
+  "packagerPort": 19001,
+  "packagerPid": 9808
+}

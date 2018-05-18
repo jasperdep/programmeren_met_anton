@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "flappy-bird-starter",
+    "name": "FlappyBird",
     "description": "No description",
     "slug": "snack-r1nLQtgCf",
     "privacy": "unlisted",
@@ -22,7 +22,7 @@
       ]
     },
     "ios": {
-      "supportsTablet": true
+      
     }
   }
 }
